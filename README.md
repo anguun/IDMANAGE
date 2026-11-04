@@ -1,6 +1,6 @@
 # Blob Storage Identity and Access Lab
 
-This project uses Terraform to build an Azure Storage Account with two private containers, `reports` and `restricted`. It also has code for an Entra ID app, a service principal and an RBAC role.
+This project uses Terraform to build an Azure Storage Account with two private containers, `reports` and `restricted`. It also has code for an Entra ID app, and an RBAC role.
 
 ## What I built
 - Resource group
