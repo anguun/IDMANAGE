@@ -1,0 +1,7 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+student_name    = "yourname"
+location        = "westus2"
+
+# Turn these on later, one at a time
+create_service_principal = false
+assign_blob_role         = false
